@@ -2,8 +2,8 @@
 name: Bug Report
 about: Create a report to help me improve this modpack.
 title: "[BUG]"
-labels: ''
-assignees: ''
+labels: Bug
+assignees: Purgenta889
 
 ---
 
