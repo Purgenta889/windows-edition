@@ -2,7 +2,7 @@
 
 _No hassle._
 
-[!Available on Modrinth](https://raw.githubusercontent.com/Purgenta889/windows-edition/refs/heads/main/available-modrinth.png)](https://modrinth.com/modpack/windows-edition)
+[![Available on Modrinth](/available-modrinth.png)](https://modrinth.com/modpack/windows-edition)
 
 # ⁉️ What is this?
 
