@@ -2,6 +2,8 @@
 
 _No hassle._
 
+![https://modrinth.com/modpack/windows-edition](https://raw.githubusercontent.com/Purgenta889/windows-edition/refs/heads/main/available-modrinth.png)
+
 # ⁉️ What is this?
 
 This is a modpack that attempts to give a perfect "pick up and play" experience for Minecraft. No unnecessary long load times, no bloat, no obstructions, just a perfect and charming experience for controller and keyboard players alike.
